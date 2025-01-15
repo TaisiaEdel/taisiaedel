@@ -4,6 +4,7 @@ About me
 
 ### Languages and Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-vscode-090909?style=for-the-badge&logo=vscode&logoColor=F8C52C)
+![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git&logoColor=orange)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=F8C52C)
 ![CharlesProxy](https://img.shields.io/badge/-CharlesProxy-090909?style=for-the-badge&logo=Charles&logoColor=47C5FB)
@@ -15,3 +16,5 @@ About me
 
 
 Follow me
+
+[![Taisiaedel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taisiaedel)](https://github.com/TaisiaEdel/github-readme-stats)
