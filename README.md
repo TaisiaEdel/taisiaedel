@@ -1,6 +1,14 @@
 <img src="https://github.com/TaisiaEdel/taisiaedel/blob/main/assets/testing.png" width="100"/>
 
-About me
+#### Hi, I’m a **QA Engineer** with a strong foundation in manual testing.  
+And an [**ISTQB**](https://istqb.org/) **Certified Tester Foundation Level (CTFL)**.
+I really enjoy making sure things work smoothly and love learning something new every day.  
+
+Curious and attentive, I like tackling challenges, improving step by step, and finding little ways to make software better — and life too. 
+
+[![GMail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:Amaya.t.edel@gmail.com)](mailto:Amaya.t.edel@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tatiana-ustinova/)](https://www.linkedin.com/in/tatiana-ustinova/)
+
 
 ### Languages and Tools:
 </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
