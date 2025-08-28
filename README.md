@@ -1,11 +1,11 @@
 <img src="https://github.com/TaisiaEdel/taisiaedel/blob/main/assets/testing.png" width="150"/>
 
-#### Hi, I’m a **QA Engineer** with a strong foundation in manual testing.  
-And an [**ISTQB**](https://istqb.org/) **Certified Tester Foundation Level (CTFL)**.
+#### Hi, I’m a **QA Enthusiast** and **ISTQB CTFL**. 
 I really enjoy making sure things work smoothly and love learning something new every day.  
 
 Curious and attentive, I like tackling challenges, improving step by step, and finding little ways to make software better — and life too. 
 
+###### CLICK TO CONTACT ME:
 [![GMail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:Amaya.t.edel@gmail.com)](mailto:Amaya.t.edel@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tatiana-ustinova/)](https://www.linkedin.com/in/tatiana-ustinova/)
 
@@ -23,8 +23,12 @@ Curious and attentive, I like tackling challenges, improving step by step, and f
 ![Jira](https://img.shields.io/badge/-jira-090909?style=for-the-badge&logo=jira&logoColor=097CDB)
 ![MySQL](https://img.shields.io/badge/-Mysql-090909?style=for-the-badge&logo=MySQL&logoColor=F8C52C)
 
-
-Follow me
-
+##  Certifications & Courses
+- [**ISTQB**](https://istqb.org/) Certified Tester Foundation Level (CTFL) v4.0
+- QA Manual Testing — Stepik
+- Test Automation with Selenium & Java — Udemy
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taisiaedel&show_icons=true&theme=tokyonight&locale=en" alt="taisiaedel" /></p>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taisiaedel&size_weight=0.5&count_weight=0.5)
