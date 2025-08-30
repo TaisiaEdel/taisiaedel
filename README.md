@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <img src="https://github.com/TaisiaEdel/taisiaedel/blob/main/assets/qa.png" />
+=======
+<img src="https://github.com/TaisiaEdel/taisiaedel/blob/main/assets/qa.png" width="1000"/>
+>>>>>>> d303dba38eec90c09a188a288d4e0c757c465855
 
 #### Hi, I’m a **QA Enthusiast** and **ISTQB CTFL**. 
 I really enjoy making sure things work smoothly and love learning something new every day.  
@@ -31,3 +35,7 @@ Curious and attentive, I like tackling challenges, improving step by step, and f
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taisiaedel&show_icons=true&theme=tokyonight&locale=en" alt="taisiaedel" /></p>
 
 
+<<<<<<< HEAD
+=======
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taisiaedel&size_weight=0.5&count_weight=0.5)
+>>>>>>> d303dba38eec90c09a188a288d4e0c757c465855
