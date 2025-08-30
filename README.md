@@ -30,5 +30,3 @@ Curious and attentive, I like tackling challenges, improving step by step, and f
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taisiaedel&show_icons=true&theme=tokyonight&locale=en" alt="taisiaedel" /></p>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taisiaedel&size_weight=0.5&count_weight=0.5)
