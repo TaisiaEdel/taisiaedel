@@ -25,8 +25,8 @@ Curious and attentive, I like tackling challenges, improving step by step, and f
 
 ##  Certifications & Courses
 - [**ISTQB**](https://istqb.org/) Certified Tester Foundation Level (CTFL) v4.0
-- QA Manual Testing — Stepik
-- Test Automation with Selenium & Java — Udemy
+- [Software testing from scratch. Theory + Practice (By Artsiom Rusau) - Stepik](https://stepik.org/cert/2727189?lang=en)
+- [The Complete 2025 Software Testing Bootcamp (by Tarek Roshdy, Nezam Academy) - Udemy](https://www.udemy.com/certificate/UC-0bf9b14a-ed52-4dae-9e4b-e138db4db35f/)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taisiaedel&show_icons=true&theme=tokyonight&locale=en" alt="taisiaedel" /></p>
 
