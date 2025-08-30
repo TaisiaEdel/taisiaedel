@@ -1,4 +1,4 @@
-<img src="https://github.com/TaisiaEdel/taisiaedel/blob/main/assets/qa.png" width="150"/>
+<img src="https://github.com/TaisiaEdel/taisiaedel/blob/main/assets/qa.png" width="500"/>
 
 #### Hi, I’m a **QA Enthusiast** and **ISTQB CTFL**. 
 I really enjoy making sure things work smoothly and love learning something new every day.  
